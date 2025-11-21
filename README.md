@@ -6,15 +6,15 @@ Frontend-разработчик (junior). Завершил переподгот�
 HTML, CSS (BEM, Grid, Flexbox), адаптивная верстка, ACCESSIBILITY (aria, focus management), JavaScript (ES6+), TypeScript, React, Redux, React Router, Webpack/Vite, Fetch/REST, Git, тестирование (Jest, React Testing Library), работа с API, основы UX.
 
 ## Основные проекты
-- Stellar Burgers — конструктор бургеров, Redux, WebSocket, тесты.  
+- Космическая бургерная — конструктор бургеров, Redux, WebSocket, тесты.  
   https://github.com/Vitaliy-EXP/stellar-burgers
-- Web Shop Larek — React-магазин, архитектура компонентов.  
+- Веб Ларёк — React-магазин, архитектура компонентов.  
   https://github.com/Vitaliy-EXP/web-larek-frontend
 - Mesto — интерактивная фотогалерея (валидация, API, Webpack, OOP, TypeScript).  
   https://github.com/Vitaliy-EXP/mesto-project-ff
-- Ono Te Be Nado — лендинг, семантика, BEM.  
+- Оно тебе надо — лендинг, семантика, BEM.  
   https://github.com/Vitaliy-EXP/ono-tebe-nado
-- Дополнительно: posmotri_v_okno, slozhno-sosredotochitsya, zakrivayuschiy-teg-f, blog-customizer.
+- Дополнительно: Посмотри в окно, Сложно сосредоточиться, Закрывающий тег, Blog Customizer.
 
 ## Контакты
 Краснодар, Россия  
